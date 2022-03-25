@@ -1,0 +1,28 @@
+.App{display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(11, 141, 141);
+  height: 100vh;
+  border-radius: 9px;
+  }
+.count-box{
+  height: 80vh;
+  background-color: rgb(26, 116, 151);
+  color: rgb(201, 188, 212);
+  border-radius: 9px;
+  padding: 4px;
+  width: 85vw;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+.btn{
+  color: rgb(6, 17, 27);
+  height: 40px;
+
+}
+
